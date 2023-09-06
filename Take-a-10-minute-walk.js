@@ -38,3 +38,5 @@ function isValidWalk(walk) {
   }
   else return false
 }
+
+// or
